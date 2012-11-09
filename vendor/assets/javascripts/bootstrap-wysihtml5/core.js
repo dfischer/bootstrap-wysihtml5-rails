@@ -391,7 +391,17 @@
                 "h1": {},
                 "h2": {},
                 "h3": {},
-                "iframe": 1,
+                "iframe": {
+                  "check_attributes": {
+                      "src":"url"
+                  },
+                  "set_attributes": {
+                      "width": "560",
+                      "height": "315",
+                      "frameborder": "0",
+                      "allowfullscreen": ""
+                  }
+                }
                 "blockquote": {},
                 "u": 1,
                 "img": {
