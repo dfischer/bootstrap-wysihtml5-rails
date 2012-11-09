@@ -401,7 +401,7 @@
                       "frameborder": "0",
                       "allowfullscreen": ""
                   }
-                }
+                },
                 "blockquote": {},
                 "u": 1,
                 "img": {
