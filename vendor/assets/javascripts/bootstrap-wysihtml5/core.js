@@ -357,7 +357,7 @@
         "color": false,
         "emphasis": true,
         "lists": true,
-        "html": false,
+        "html": true,
         "link": true,
         "image": true,
         events: {},
@@ -391,7 +391,7 @@
                 "h1": {},
                 "h2": {},
                 "h3": {},
-                "iframe": {},
+                "iframe": 1,
                 "blockquote": {},
                 "u": 1,
                 "img": {
